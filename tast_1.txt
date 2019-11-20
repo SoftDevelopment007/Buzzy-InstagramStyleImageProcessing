@@ -1,0 +1,37 @@
+upwork.com task
+
+https://dashboard.sashido.io
+Username: buzzysocialnetwork@gmail.com
+Password: BUZZYSocialNetwork2017
+
+bitbucket account
+Username = buzzysocialnetwork@gmail.com
+Password = AntoineBenJBMax062017
+
+
+Appple account:
+
+
+
+
+
+
+Details about IOS add-ons
+- Text and video editing: Inserting text and emojis is already available on photos and videos on the current, but they are stuck on the left bottom. 
+We want to be able to: 
+Move the text and emojis
+Decrease or increase the size of the text and emojis.
+Change the text colour with 9-27 different colours (like Instagram) . 
+- New feature: possibility to draw on pictures and videos with same editing options as mentioned above (moveable, size-changeable, colour changeable). example to be found on Instagram
+- 6 color filters for the photo and video
+Monochrome
+Tonal
+Transfer
+Sepia
+Vignette Effect
+Chrome Effect
+- Same flow as Instagram/Snapchat
+Plug in camera: LLSimpleCamera
+
+
+1. let's do text moving, resizing and colour changes; and emoji moving and resizing

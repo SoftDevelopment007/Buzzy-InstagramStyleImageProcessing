@@ -1,0 +1,228 @@
+ [
+  {
+  "stylers": [
+              {
+              "saturation": -15
+              },
+              {
+              "gamma": 0.32
+              }
+              ]
+  },
+  {
+  "featureType": "poi.attraction",
+  "elementType": "labels",
+  "stylers": [
+              {
+              "visibility": "off"
+              }
+              ]
+  },
+  {
+  "featureType": "poi.business",
+  "elementType": "labels",
+  "stylers": [
+              {
+              "visibility": "off"
+              }
+              ]
+  },
+  {
+  "featureType": "poi.government",
+  "elementType": "labels",
+  "stylers": [
+              {
+              "visibility": "off"
+              }
+              ]
+  },
+  {
+  "featureType": "poi.medical",
+  "elementType": "labels",
+  "stylers": [
+              {
+              "visibility": "off"
+              }
+              ]
+  },
+  {
+  "featureType": "poi.park",
+  "elementType": "labels",
+  "stylers": [
+              {
+              "visibility": "off"
+              }
+              ]
+  },
+  {
+  "featureType": "poi.place_of_worship",
+  "elementType": "labels",
+  "stylers": [
+              {
+              "visibility": "off"
+              }
+              ]
+  },
+  {
+  "featureType": "poi.school",
+  "elementType": "labels",
+  "stylers": [
+              {
+              "visibility": "off"
+              }
+              ]
+  },
+  {
+  "featureType": "poi.sports_complex",
+  "elementType": "labels",
+  "stylers": [
+              {
+              "visibility": "off"
+              }
+              ]
+  },
+  {
+  "featureType": "road",
+  "stylers": [
+              {
+              "visibility": "simplified"
+              }
+              ]
+  },
+  {
+  "featureType": "road",
+  "elementType": "geometry",
+  "stylers": [
+              {
+              "visibility": "simplified"
+              }
+              ]
+  },
+  {
+  "featureType": "road.arterial",
+  "elementType": "labels.icon",
+  "stylers": [
+              {
+              "visibility": "off"
+              }
+              ]
+  },
+  {
+  "featureType": "road.highway",
+  "elementType": "geometry",
+  "stylers": [
+              {
+              "visibility": "off"
+              }
+              ]
+  },
+  {
+  "featureType": "road.highway",
+  "elementType": "labels",
+  "stylers": [
+              {
+              "visibility": "off"
+              }
+              ]
+  },
+  {
+  "featureType": "road.highway",
+  "elementType": "labels.icon",
+  "stylers": [
+              {
+              "visibility": "off"
+              }
+              ]
+  },
+  {
+  "featureType": "road.highway.controlled_access",
+  "elementType": "geometry",
+  "stylers": [
+              {
+              "visibility": "off"
+              }
+              ]
+  },
+  {
+  "featureType": "road.highway.controlled_access",
+  "elementType": "labels",
+  "stylers": [
+              {
+              "visibility": "off"
+              }
+              ]
+  },
+  {
+  "featureType": "road.highway.controlled_access",
+  "elementType": "labels.icon",
+  "stylers": [
+              {
+              "visibility": "off"
+              }
+              ]
+  },
+  {
+  "featureType": "road.local",
+  "stylers": [
+              {
+              "visibility": "on"
+              }
+              ]
+  },
+  {
+  "featureType": "road.local",
+  "elementType": "labels.icon",
+  "stylers": [
+              {
+              "visibility": "off"
+              }
+              ]
+  },
+  {
+  "featureType": "transit.line",
+  "elementType": "geometry",
+  "stylers": [
+              {
+              "visibility": "off"
+              }
+              ]
+  },
+  {
+  "featureType": "transit.line",
+  "elementType": "labels",
+  "stylers": [
+              {
+              "visibility": "off"
+              }
+              ]
+  },
+  {
+  "featureType": "transit.line",
+  "elementType": "labels.icon",
+  "stylers": [
+              {
+              "visibility": "off"
+              }
+              ]
+  },
+  {
+  "featureType": "transit.station",
+  "elementType": "labels.icon",
+  "stylers": [
+              {
+              "visibility": "off"
+              }
+              ]
+  },
+  {
+  "featureType": "water",
+  "stylers": [
+              {
+              "color": "#141d1a"
+              },
+              {
+              "lightness": 50
+              }
+              ]
+  }
+  ]

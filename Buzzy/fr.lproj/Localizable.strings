@@ -1,0 +1,169 @@
+
+"Buzzy's friend"="Amis Buzzy";
+
+"Remove"="Supprimer";
+"Are you sure you want to remove this Friend?"="Êtes-vous sûr de vouloir supprimer cet Ami ?";
+"Remove Friend"="Supprimer Ami";
+"Username unknown"="Nom d'utilisateur inconnu";
+"Add Friends"="Ajouter des amis";
+"Add Friend"="Ajouter commme Ami";
+
+"Add friends by their Instagram username"="Ajouter des amis via leur nom d'utilisateur Instagram";
+
+"Instagram username"="Nom d'utilisateur Instagram";
+"End of Tutorial"="Fin du Tutoriel";
+
+"OK"="OK";
+"Cancel"="Annuler";
+"Confirm"="Confirmer";
+
+
+"btnAddFriends2"="btnAddFriends2Fr";
+"My Friends"="Mes Amis";
+"Tutorial"="Tutoriel";
+
+
+"Kingdoms' list"="Liste des royaumes";
+"Liked"="Aimé";
+"My BUZZs"="Mes BUZZs";
+"Camera"="Appareil photo";
+"Chat"="Discussion";
+"King's/Queen's pretenders"="Prétandants du King/Queen";
+"Kingdom's border"="Frontière du royaume";
+"King's/Queen's friend"="Ami du King/Queen";
+
+"Report %@"="Signaler %@";
+"Report BUZZ"="Signaler le BUZZ";
+
+
+"Legend"="Légende";
+
+"For the buzz that you liked, find\nthe corresponding Instagram\nprofile in the like box\nby touching their Instagram picture"="Pour les Buzzs que tu as liké,\ndécouvre le profil Instagram\ncorrespondant dans la like box\nen cliquant sur leur photo instagram";
+
+"Tap on the Queen\nof France"="Cliques sur la Queen\nde France";
+
+"Be ready to\nbecome a King!"="Es-tu prêt à\ndevenir un King !";
+"Be ready to\nbecome a Queen!"="Es-tu prête à\ndevenir une Queen !";
+"Tap on this button\nto post a BUZZ"="Cliques sur\ncette touche pour\nposter un BUZZ";
+"Tap on your profile picture\nto view and delete the BUZZs\nthat you have posted"="Cliques sur la photo\nde profil pour visualiser\net effacer les BUZZs\nque tu as postés ";
+"Tap on the crown\nto discover the kingdoms\naround you"="Cliques sur la couronne\npour découvrir les royaumes\nautour de toi ";
+"Tap on one King/Queen\nto visualize his/her BUZZ"="Cliques sur un(e)\nKING/QUEEN pour\nvisualiser son BUZZ ";
+"Tap on the chatbox to\ncomment the buzz"="Cliques sur le chat pour\ncommenter le BUZZ";
+"Tap on the profile\npicture to view the\nprofile on Instagram"="Cliques sur la photo\nde profil pour visualiser\nle compte Instagram ";
+"Tap on the heart\nto like the BUZZ"="Cliques sur le cœur\npour liker le BUZZ ";
+"Tap on the sword to view\nthe pretenders BUZZ’s"="Cliques sur l’épée\npour visualiser les\nBUZZs des prétendants ";
+
+"Tap on the \"Like box\" to view\nindefinitely the BUZZs that you\nhave previously liked and\ndiscover the corresponding\ninstagram username"="Cliques sur la \"Like Box\" pour\nvisualiser indéfiniment les BUZZs\nque tu as likés précédemment\net découvrir le nom d’utilisateur\nInstagram correspondant";
+
+"Swipe on the right to\nlike and swipe on the left\nto pass on another BUZZ"="Swipe à droite pour\nliker et swipe à gauche\npour passer au BUZZ suivant";
+
+"Like the BUZZ to discover\nthe Instagram username\nthat will be displayed in\nthe \"like\" on the map"="Like le BUZZ pour\ndécouvrir le nom d’utilisateur\nInstagram, qui sera affiché dans\nla \"Like Box\" sur la carte";
+
+"Tap on the number\nof likes to check\nwho liked your BUZZ"="Cliques sur le nombre\nde likes pour voir\nqui a liké ton BUZZ ";
+
+
+
+
+"Buzzy is coming soon\nin your country"="Buzzy arrive bientôt\ndans votre pays
+";
+
+
+"%@, kingdom of %@"="%@ - %@";
+
+
+"Delete"="Supprimer";
+"Are you sure you want to delete this BUZZ?"="Êtes-vous sûr de vouloir supprimer ce BUZZ ?";
+
+
+"QueenEn"="QueenEn";
+"KingEn"="KingEn";
+
+
+"btnLogin"="btnLoginFr";
+
+"%@ has a new1 %@" = "%@ a un nouveau %@";
+"%@ has a new2 %@" = "%@ a une nouvelle %@";
+
+
+/* No comment provided by engineer. */
+"Are you sure you want to log out?" = "Êtes-vous sûr de vouloir vous déconnecter ?";
+
+/* No comment provided by engineer. */
+"Buzzy" = "Buzzy";
+
+/* No comment provided by engineer. */
+"By signing up, you agree to our Terms" = "En vous inscrivant, vous acceptez\nnos Conditions d’utilisation";
+
+/* No comment provided by engineer. */
+"Cancel" = "Annuler";
+
+/* No comment provided by engineer. */
+"Comments" = "Commentaires";
+
+/* No comment provided by engineer. */
+"Help & Support" = "Aide & Soutien";
+
+/* No comment provided by engineer. */
+"Hi %@,\nare you a Queen\nor a King ?" = "%@,\nes-tu une Queen\nou un King ?";
+
+/* No comment provided by engineer. */
+"Invite Friends" = "Inviter des Amis";
+
+/* No comment provided by engineer. */
+"King" = "King";
+
+/* No comment provided by engineer. */
+"Kingdoms" = "Royaumes";
+
+/* No comment provided by engineer. */
+"Liked" = "Aimé";
+
+/* No comment provided by engineer. */
+"Log Out" = "Se déconnecter";
+
+
+/* No comment provided by engineer. */
+"My BUZZs" = "Mes BUZZs";
+
+/* No comment provided by engineer. */
+"NO" = "NON";
+
+/* No comment provided by engineer. */
+"Pretenders" = "Prétendants";
+
+/* No comment provided by engineer. */
+"Privacy Policy" = "Politique de Confidentialité";
+
+/* No comment provided by engineer. */
+"Queen" = "Queen";
+
+/* No comment provided by engineer. */
+"Rate us" = "Évaluez-nous";
+
+
+/* No comment provided by engineer. */
+"second" = "seconde";
+
+/* No comment provided by engineer. */
+"seconds" = "secondes";
+
+/* No comment provided by engineer. */
+"Send" = "Envoyer";
+
+/* No comment provided by engineer. */
+"Send a comment..." = "Envoyer un commentaire...";
+
+/* No comment provided by engineer. */
+"Terms & Conditions" = "Conditions d’Utilisation";
+
+/* No comment provided by engineer. */
+"Today" = "Aujourd'hui";
+
+/* No comment provided by engineer. */
+"YES" = "OUI";
+
+/* No comment provided by engineer. */
+"Yesterday" = "Hier";
+
+
+
